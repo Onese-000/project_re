@@ -1,7 +1,7 @@
 {
   "name": "myhouse",
   "version": "1.0.0",
-  "description": "",
+  "description": "myhouse json file",
   "main": "dashboard.php",
   "scripts": {
     "start" : "php ./dashboard.php", 
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/Onese-000/MyHouse.git"
   },
   "author": "Onese-000",
-  "license": "ISC",
+  "license": "propietary",
   "bugs": {
     "url": "https://github.com/Onese-000/MyHouse/issues"
   },
