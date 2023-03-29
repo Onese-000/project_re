@@ -1,0 +1,94 @@
+body{
+    background-color: #EEF5F9;
+}
+
+.form-header {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+label {
+    color: #fff;
+}
+
+input[type=text], select {
+    background-color: #36393f;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+textarea {
+    background-color: #36393f;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    width: 100%;
+    height: 100px;
+    margin-bottom: 20px;
+    resize: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+input[type=submit] {
+    background-color: #7289da;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #677bc4;
+}
+
+
+
+/*
+
+*/
+button.sendotp{
+    background-color:#41B3F9;
+}
+
+
+
+
+/*     OUTPUT SEARCH TABLE*/
+
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 0.5rem;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    cursor: pointer;
+    background-color: #f5f5f5;
+  }
+  
+  #apartment-name {
+    color: #ccc;
+  }
